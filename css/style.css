@@ -8,15 +8,6 @@ html {
   font-size: 62.5%;
 }
 
-body {
-  font-family: "roboto", sans-serif;
-  font-weight: 400;
-  color: #777777;
-  font-size: 1.6rem;
-  letter-spacing: 0.2px;
-  padding: 5rem;
-  background-color: white;
-}
 
 .container {
   background-color: #F7F7F7;
